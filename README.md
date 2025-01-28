@@ -46,4 +46,6 @@ A custom ERC20 token with promotional fee structures and trading controls.
 4. How can we improve gas efficiency?
 
 ## Contact
-[Your contact info or preferred method of communication] 
+- GitHub Issues: For bug reports and feature requests
+- GitHub Discussions: For general questions and community chat
+- GitHub Repository: https://github.com/just1121/AttentionToken 
